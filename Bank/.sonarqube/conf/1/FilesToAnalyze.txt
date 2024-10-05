@@ -1,0 +1,14 @@
+﻿C:\Users\anton\OneDrive\Documentos\GitHub\lab-2024-ii-cps-u1-04-csharp-AntonyChata\Bank\Bank.WebApi.Tests\BankAccountTests.cs
+C:\Users\anton\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\anton\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\anton\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\anton\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\anton\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\anton\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.dll
+C:\Users\anton\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\anton\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\nunit.engine.core.dll
+C:\Users\anton\.nuget\packages\nunit3testadapter\4.2.1\build\netcoreapp2.1\testcentric.engine.metadata.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\lab-2024-ii-cps-u1-04-csharp-AntonyChata\Bank\Bank.WebApi.Tests\TestResults\0bb9ac5e-85d5-4214-9d37-58cd0f36c1e0\coverage.opencover.xml
+C:\Users\anton\OneDrive\Documentos\GitHub\lab-2024-ii-cps-u1-04-csharp-AntonyChata\Bank\Bank.WebApi.Tests\TestResults\0e9ebb51-ac7f-4daf-8075-dd36acaeb321\coverage.cobertura.xml
+C:\Users\anton\OneDrive\Documentos\GitHub\lab-2024-ii-cps-u1-04-csharp-AntonyChata\Bank\Bank.WebApi.Tests\TestResults\862d4b60-0691-42e7-99bb-ccf8bceeee44\coverage.opencover.xml
+C:\Users\anton\OneDrive\Documentos\GitHub\lab-2024-ii-cps-u1-04-csharp-AntonyChata\Bank\Bank.WebApi.Tests\TestResults\d164afc1-064e-42c9-b779-a58d5ac32197\coverage.cobertura.xml

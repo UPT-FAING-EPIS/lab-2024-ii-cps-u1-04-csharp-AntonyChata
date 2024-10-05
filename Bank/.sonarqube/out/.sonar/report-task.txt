@@ -1,0 +1,7 @@
+organization=antonychatachoque
+projectKey=antonychatachoque_apibank
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.56940
+dashboardUrl=https://sonarcloud.io/dashboard?id=antonychatachoque_apibank
+ceTaskId=AZJeQ42atiatgzNZFeWw
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZJeQ42atiatgzNZFeWw
